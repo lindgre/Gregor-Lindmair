@@ -1,4 +1,4 @@
-# Introduction - [Your Full Name]
+# Introduction - Gregor Lindmair
 
 ## About Me
 
