@@ -2,7 +2,7 @@
 
 ## About Me
 
-Born and rised in 1996 at Grieskirchen hospital I graduated from HTL Ried in 2016 and after 5 years of working in an intralogistic company as a product development engineer I started the mechanical engineering studies. There we had two courses, where we learned the basics of coding. In this semester we learn how to code and handle the visualisation. I take the course, 'cause it is in the curriculum. Hopefully I will pass the exams and have some pleasure with coding. 
+Born and raised in 1996 at Grieskirchen hospital I graduated from HTL Ried in 2016 and after 5 years of working in an intralogistic company as a product development engineer I started the mechanical engineering studies. There we had two courses, where we learned the basics of coding. In this semester we learn how to code and handle the visualisation. I take the course, 'cause it is in the curriculum. Hopefully I will pass the exams and have some pleasure with coding. 
 
 ## Technical Experience
 
