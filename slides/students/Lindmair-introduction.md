@@ -23,11 +23,11 @@ FH OÖ Wels
 ## Technical Skills
 
 ### Programming
-- **Comfortable with:** dsa 
+- **Comfortable with:** CAD
 - **Learning:** Python
 
 ### Engineering Tools
-- [List relevant engineering software/tools]
+- Solid Works, Creo Direct Modeling
 
 ---
 
@@ -38,14 +38,14 @@ FH OÖ Wels
 - Wein
 
 ### Data I work with:
-- Messdaten
+- Messdaten, Daten für Rechenoperationen
 
 ---
 
 ## Questions & Goals
 
 ### Questions:
-- wie geht das genau mit dem Programmieren
+- wie funktioniert das Coding in Python 
 - wie funktioniert die Interaktion zw. GitHub und VS Code
 
 ### Goals:
