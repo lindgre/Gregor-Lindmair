@@ -58,6 +58,21 @@ module.exports = {
       items: [
         'visualization/introduction',
         'visualization/matplotlib',
+        'visualization/3d-visualization-vtk',
+        'visualization/meshio-file-conversion',
+        'visualization/3d-visualization-pyvista',
+        'visualization/mesh-visualization-workshop',
+        'visualization/fem-coding-challenge',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'User Interfaces',
+      items: [
+        'user-interfaces/ui-overview',
+        'user-interfaces/pyqt-basics',
+        'user-interfaces/pyvista-qt-integration',
+        'user-interfaces/qt-workshop',
       ],
     },
   ],
